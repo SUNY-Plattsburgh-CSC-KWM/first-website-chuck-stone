@@ -8,10 +8,10 @@ Displays Hello World!
 Displays a button that changes "World" to a name that you enter.
 
 In the html file, you need to change:
-- The function name
-- The function content, a prompt for a new name, and the DOM call (provided) to change the text on the level one header
-- The ID on level one header (in the h1 tag AND in the function)
-- The button tag, to call your function by name AND to put a label on the button
+X The function name
+X The function content, a prompt for a new name, and the DOM call (provided) to change the text on the level one header
+X The ID on level one header (in the h1 tag AND in the function)
+X The button tag, to call your function by name AND to put a label on the button
 
 I was able to generate this in Visual Studio Code using one copilot prompt.
 
